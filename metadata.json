@@ -1,7 +1,7 @@
 {
   "title": "Pixel Racket",
-  "description": "Juego de tenis clásico 2D. Compite contra tus amigos en este increíble título.",
-  "authors": ["Ortiz"],
-  "group_number": "Tenis Taller",
-  "controls": "Jugador 1: W/S | Jugador 2: Flecha Arriba/Abajo"
+  "description": "Juego de tenis clásico en 2D",
+  "authors": ["Fabiana Materano y Kerlyannes Betancourt"],
+  "group_number": "Grupo 1, jueves",
+  "controls": "Jugador 1: W/A/S/D/Espacio | Jugador 2: Flecha Arriba/Abajo/Izquierda/derecha/Enter"
 }
